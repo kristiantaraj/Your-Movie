@@ -1,6 +1,6 @@
-# Movie Recommendation App
+# Movie Recommendation App (YourMovie)
 
-The Movie Recommendation App is a Java-based application that provides personalized movie recommendations to users based on their preferences. The app leverages a movie database API to fetch movie details and employs a recommendation algorithm to suggest similar movies or movies based on user ratings.
+The YourMovie App is a Java-based application that provides personalized movie recommendations to users based on their preferences. The app leverages a movie database API to fetch movie details and employs a recommendation algorithm to suggest similar movies or movies based on user ratings.
 
 ## Features
 
